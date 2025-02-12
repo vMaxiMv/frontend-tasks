@@ -118,3 +118,7 @@ GROUP BY product_category
 ORDER BY product_category;
 
 ```
+
+## project_Hierarchy
+Ссылка
+https://codesandbox.io/p/sandbox/vzmj2t
